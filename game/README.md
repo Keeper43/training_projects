@@ -13,13 +13,13 @@
 Данные:
   - event_datetime — время события;
   - event — одно из трёх событий:
-     1) building — объект построен,
-     2) finished_stage_1 — первый уровень завершён,
-     3) project — проект завершён;
+     + building — объект построен;
+     + finished_stage_1 — первый уровень завершён;
+     + project — проект завершён;
   - building_type — один из трёх типов здания:
-     1) assembly_shop — сборочный цех,
-     2) spaceport — космопорт,
-     3) research_center — исследовательский центр;
+     + assembly_shop — сборочный цех;
+     + spaceport — космопорт;
+     + research_center — исследовательский центр;
   - user_id — идентификатор пользователя;
   - project_type — тип реализованного проекта;
 
